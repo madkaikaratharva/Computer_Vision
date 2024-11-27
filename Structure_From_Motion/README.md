@@ -1,4 +1,4 @@
-# CS4277/CS5477: Structure from Motion and Bundle Adjustment
+# Structure from Motion and Bundle Adjustment
 
 ## Overview :
 
